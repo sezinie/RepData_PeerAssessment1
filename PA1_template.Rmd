@@ -5,6 +5,8 @@ output:
     keep_md: yes
 ---
 
+Peer Assessment 1
+
 ## Loading and preprocessing the data
 ```{r}
 activity <- read.csv("activity.csv", header = T, stringsAsFactors = F)
